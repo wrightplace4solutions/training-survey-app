@@ -1,2 +1,2 @@
 # training-survey-app
-Neutral Soulware Systems survey app
+Soulware Systems survey app
